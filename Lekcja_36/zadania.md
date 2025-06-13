@@ -1,0 +1,10 @@
+- [ ] Stwórz krotkę, listę, słownik i zbiór zawierające po 3 elementy
+- [ ] Za pomocą funkcji len() sprawdź długości poszczególnych obiektów
+- [ ] Za pomocą pętli for wypisz wszystkie elementy każdego z obiektów
+- [ ] Teraz wypisz wartości słownika zamiast kluczy
+- [ ] Wypisz te same elementy w odwrotnej kolejności — czy zawsze jest to możliwe bezpośrednio? W razie problemów skorzystaj z pomocy ChatGPT
+- [ ] Dodaj do listy elementy z krotki, zbioru i wartości słownika
+- [ ] Dodaj do listy 2 liczby: wartość maksymalna i minimalna listy
+- [ ] Sprawdź długość listy
+- [ ] Zamień listę na krotkę krotka2 i sprawdź jej długość
+- [ ] Zamień krotkę na zbiór zbior2 i sprawdź jego długość — z czego wynika różnica?

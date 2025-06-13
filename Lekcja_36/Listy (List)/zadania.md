@@ -1,0 +1,11 @@
+
+ - [ ] stwórz 2 listy składające się z 3 liczb każda
+ - [ ] połącz stworzone wcześniej listy
+ - [ ] Usuń elementy z indeksami 2 i 5
+ - [ ] Usuń największą i najmniejszą liczbę z listy
+ - [ ] Dodaj liczbę do listy
+ - [ ] Posortuj listę
+ - [ ] Utwórz kopię listy
+ - [ ] Odwróć kolejność elementów w kopii
+ - [ ] Dodaj 1 do wartości każdego elementu w pierwszej liście, a w drugiej odejmij 1
+ - [ ] Wyświetl obie listy
