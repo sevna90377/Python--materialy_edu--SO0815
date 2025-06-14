@@ -17,4 +17,3 @@ ___
 
 **condition** - opcjonalny warunek, który element musi spełniać, aby został dodany do nowej listy
 ___
-
